@@ -3,3 +3,6 @@ def func3():
 
 def func4():
     pass
+
+def func5():
+    pass
